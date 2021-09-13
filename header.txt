@@ -1,2 +1,6 @@
 some text
-change fron branch main - add some changes!
+<<<<<<< HEAD
+change fron branch main
+add from branch first
+
+Added from main - add some changes!
